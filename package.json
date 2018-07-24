@@ -7,14 +7,16 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile":"truffle compile",
+    "migrate":"truffle migrate",
+    "remix:start": "remixd -s ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "openzeppelin-solidity": "1.11.0",
-    "remixd": "0.1.8-alpha.4",
     "web3": "1.0.0-beta.34"
   }
 }
