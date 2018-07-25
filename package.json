@@ -8,14 +8,15 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile":"truffle compile",
-    "migrate":"truffle migrate",
-    "remix:start": "remixd -s ."
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "remix:start": "remixd -s ./"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bignum": "^0.13.0",
     "openzeppelin-solidity": "1.11.0",
     "web3": "1.0.0-beta.34"
   }
