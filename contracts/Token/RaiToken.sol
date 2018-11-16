@@ -6,7 +6,8 @@ pragma solidity ^0.4.21;
  * 0xf19c96e82769ab1a52acdcce0c5769835f3d8d49  main net 18
  *  920000000000000000000000000
  *  9200000000000000000000000000
- * 0x0ed22eee9eaf029db7caac48c7915ad59d7105de  main net 18, 92억
+ * 0x0ed22eee9eaf029db7caac48c7915ad59d7105de  (son) main net 18, 92억
+ * 0x4e3a39e278e7e53649b60a7f4c0b3bcff64cea40 (son ) ropsten
  */
 import "./EIP20Interface.sol";
 
