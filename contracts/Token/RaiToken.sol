@@ -3,6 +3,10 @@ pragma solidity ^0.4.21;
  * 0xd1f2649e740752a48c381c944cb23202592f8e65 계약주소.. ,danet 소수점 8
  * 0xf19c96e82769ab1a52acdcce0c5769835f3d8d49  ropsten  소수점 18
  * 0xf19c96e82769ab1a52acdcce0c5769835f3d8d49  kovan 소수점 18
+ * 0xf19c96e82769ab1a52acdcce0c5769835f3d8d49  main net 18
+ *  920000000000000000000000000
+ *  9200000000000000000000000000
+ * 0x0ed22eee9eaf029db7caac48c7915ad59d7105de  main net 18, 92억
  */
 import "./EIP20Interface.sol";
 
